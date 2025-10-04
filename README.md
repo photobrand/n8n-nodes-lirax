@@ -49,7 +49,7 @@ n8n ≥ 1.112.6 (2025-09-26)
 Клонируйте репозиторий:
 
 bash
-git clone https://github.com/photobrand/n8n-nodes-n8n-nodes-lirax.git
+git clone https://github.com/photobrand/n8n-nodes-lirax.git
 cd n8n-nodes-lirax
 Установите зависимости и соберите проект:
 
