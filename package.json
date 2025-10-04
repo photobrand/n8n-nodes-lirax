@@ -1,7 +1,7 @@
 {
   "name": "n8n-nodes-lirax",
   "version": "1.0.0",
-  "description": "Official LiraX telephony and CRM integration for n8n with full API coverage - Voice calls, SMS, IVR, contacts and call management",
+  "description": "LiraX telephony and CRM integration for n8n with full API coverage - Voice calls, SMS, IVR, contacts and call management",
   "type": "module",
   "engines": {
     "node": ">=18.17.0",
@@ -39,15 +39,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pragma-company/n8n-nodes-lirax.git"
+    "url": "https://github.com/photobrand/n8n-nodes-lirax.git"
   },
   "bugs": {
-    "url": "https://github.com/pragma-company/n8n-nodes-lirax/issues"
+    "url": "https://github.com/photobrand/n8n-nodes-lirax/issues"
   },
-  "homepage": "https://github.com/pragma-company/n8n-nodes-lirax#readme",
+  "homepage": "https://github.com/photobrand/n8n-nodes-lirax#readme",
   "funding": {
     "type": "github",
-    "url": "https://github.com/sponsors/pragma-company"
+    "url": "https://github.com/sponsors/photobrand
   },
   "dependencies": {
     "qs": "^6.12.1",
